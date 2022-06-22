@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub Repository!
 
-- 🌱 I’m currently learning HTML, CSS JS, Python
+- 🌱 I’m currently learning HTML, CSS, JS, Python
 
 <!--
 **MicroSmooth/MicroSmooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
